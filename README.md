@@ -24,11 +24,8 @@ Then, run the application in the command line and it will be available at `http:
 pnpm dev
 ```
 
-To use the API route, go to the link below in your browser or run a curl command in your terminal to get a sample result. Feel free to replace the dub.sh link with a link to any image.
 
-```bash
-curl http://localhost:3000/api/generate?imageUrl=https://dub.sh/confpic
-```
+
 
 ## One-Click Deploy
 
